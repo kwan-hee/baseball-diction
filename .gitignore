@@ -1,0 +1,9 @@
+# 세션/캐시
+.omc/
+
+# 대용량 영상 (GitHub 100MB 제한) 및 중간 산출물
+*.mp4
+output/**/concat.txt
+
+# BGM 음원 (저작권 — 리포에 재배포하지 않음)
+output/**/bgm/
